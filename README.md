@@ -22,6 +22,3 @@ A aplicação recebe os dados do usuário, realiza o cálculo do IMC e informa a
 
 ```bash
 git clone https://github.com/LorenaCarmo/calculadora-imc-python.git
-
-## Desenvolvido por:
-Lorena Carmo
