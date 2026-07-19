@@ -13,8 +13,11 @@ A aplicação recebe os dados do usuário, realiza o cálculo do IMC e informa a
 ## Funcionalidades
 
 - Entrada de nome, peso e altura do usuário.
-- Cálculo automático do IMC
-- Classificação do resultado
+- Conversão automática da altura informada com vírgula para o formato aceito pelo Python.
+- Cálculo automático do IMC.
+- Classificação do IMC conforme a tabela de referência.
+- Exibição do resultado com duas casas decimais.
+- Possibilidade de realizar novas consultas sem reiniciar o programa.
 
 ## Como executar o projeto
 
