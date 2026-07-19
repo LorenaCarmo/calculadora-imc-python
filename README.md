@@ -21,4 +21,4 @@ A aplicação recebe os dados do usuário, realiza o cálculo do IMC e informa a
 1. Clone este repositório:
 
 ```bash
-python src/calculadora_imc.py
+python src/imc.py
